@@ -1,4 +1,4 @@
-# cheapest party DJ’s global network
+# Cheapest Party DJ’s Global Network
 
 ![IMG_6676.JPG](IMG_6676.jpg)
 
