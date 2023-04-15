@@ -36,4 +36,4 @@ Sloppy's the name and bangers are my game. 100% no chill.
 
 ![DSCF7080.jpg](DSCF7080.jpg)
 
-Brining the sound of 2001 since 2002.
+Bringing the sound of 2001 since 2002.
