@@ -30,10 +30,10 @@ Description
 
 ![image_preview.jpg](image_preview.jpg)
 
-Description
+Sloppy's the name and bangers are my game. 100% no chill. 
 
 ## 5PM Markdown
 
 ![DSCF7080.jpg](DSCF7080.jpg)
 
-Description
+Brining the sound of 2001 since 2002.
