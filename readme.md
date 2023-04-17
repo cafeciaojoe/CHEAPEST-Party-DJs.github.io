@@ -7,33 +7,34 @@ The CHEAPEST Party DJ Global Network™️ is committed to offering you dirt ch
 # Stockholm’s CHEAPEST Party DJs
 
 ## cafeciaojoe
+Hi I’m cafeciaojoe, if it’s on youtube I can play it. 
 
 ![IMG_6676.JPG](IMG_6676.jpg)
 
-Hi I’m cafeciaojoe, if it’s on youtube I can play it. 
+## NoMe
+High energy, sincere selections, NoME will take you to the high heavens. Unmoor! 
+
+![NoMe.JPG](NoMe.jpg)
 
 # Melbourne’s CHEAPEST Party DJs
 
 ## Oiber Zwalf
+Description
 
 ![image_preview.jpg](image_preview.jpg)
-
-Description
 
 ## Piezo 32
-
-![image_preview.jpg](image_preview.jpg)
-
 Description
 
+![image_preview.jpg](image_preview.jpg)
+
 ## DJ Sloppy
+Sloppy's the name and bangers are my game. Leave your inhabitions at the door!
 
 ![image_preview.jpg](image_preview.jpg)
 
-Sloppy's the name and bangers are my game. 100% no chill. 
-
 ## 5PM Markdown
+Bringing back the sounds of 2001 since 2002.
 
 ![DSCF7080.jpg](DSCF7080.jpg)
 
-Bringing the sound of 2001 since 2002.
