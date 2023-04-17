@@ -9,7 +9,7 @@ The CHEAPEST Party DJ Global Network™️ is committed to offering you dirt ch
 ## cafeciaojoe
 Hi I’m cafeciaojoe, if it’s on youtube I can play it. 
 
-![IMG_6676.JPG](IMG_6676.jpg)
+![IMG_6675.JPG](IMG_6675.jpg)
 
 ## NoMe
 High energy, sincere selections, NoME will take you to the high heavens. Unmoor! 
