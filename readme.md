@@ -7,7 +7,7 @@ The CHEAPEST Party DJ Global Network™️ is committed to offering you dirt ch
 # Stockholm’s CHEAPEST Party DJs
 
 ## cafeciaojoe
-Hi I’m cafeciaojoe, if it’s on youtube I can play it. 
+Hi I’m cafeciaojoe, if it’s on YouTube I can play it. 
 
 ![IMG_6675.JPG](IMG_6675.jpg)
 
@@ -34,7 +34,7 @@ Description
 ![image_preview.jpg](image_preview.jpg)
 
 ## DJ Sloppy
-Sloppy's the name and bangers are my game. Leave your inhabitions at the door!
+Sloppy's the name and bangers are my game. Leave your inhibitions at the door!
 
 ![image_preview.jpg](image_preview.jpg)
 
