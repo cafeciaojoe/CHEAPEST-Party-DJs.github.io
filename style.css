@@ -5,14 +5,24 @@ h1 {
 }
 */
 
-body {
+body.home {
   background-image: url("./images/5030.png");
+  background-repeat: repeat;
+}
+
+body.gallery {
+  background-image: url("./images/5021.png");
+  background-repeat: repeat;
+}
+
+body.guestbook {
+  background-image: url("./images/5011.png");
   background-repeat: repeat;
 }
 
 h1 {
 font-family: Times New Roman;
-font-size: 24px;
+font-size: 26px;
 font-weight: bold;
 background-color: #05fce3;
 margin: 40px 0px 20px 0px;
@@ -23,7 +33,7 @@ text-align: center;
 
 p {
     padding-left: 20px;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 #motto {
@@ -37,6 +47,7 @@ p {
 nav {
 font-size: 24px;
 text-align: center;
+background-color: #05fce3;
 }
 
 }
