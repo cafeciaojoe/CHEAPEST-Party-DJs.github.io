@@ -6,7 +6,7 @@ h1 {
 */
 
 body.home {
-  background-image: url("./images/5030.png");
+  background-image: url("./images/5013.png");
   background-repeat: repeat;
 }
 
@@ -34,6 +34,8 @@ text-align: center;
 p {
     padding-left: 20px;
     font-size: 22px;
+    background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(204, 204, 204, 0.5);
 }
 
 #motto {
