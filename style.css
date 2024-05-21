@@ -78,7 +78,7 @@ background-color: #ffffff;
   overflow: hidden;
   white-space: nowrap;
   box-sizing: border-box;
-  animation: marquee 10s linear infinite;
+  animation: marquee 20s linear infinite;
   font-size: 24px; /* Adjust this value to make the text bigger or smaller */
   background-color: yellow; /* Set the desired background color */
   padding: 5px; /* Optional: Add some padding for better appearance */
