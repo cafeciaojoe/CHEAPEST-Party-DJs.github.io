@@ -68,6 +68,7 @@ background-color: #ffffff;
             margin: 0px; /* Adjust the spacing between images as needed */
         }
 
+/*
 .scroll-container {
   display: flex;
   align-items: center;
@@ -79,9 +80,15 @@ background-color: #ffffff;
   white-space: nowrap;
   box-sizing: border-box;
   animation: marquee 20s linear infinite;
-  font-size: 24px; /* Adjust this value to make the text bigger or smaller */
-  background-color: yellow; /* Set the desired background color */
-  padding: 5px; /* Optional: Add some padding for better appearance */
+  font-size: 24px; */
+/* Adjust this value to make the text bigger or smaller *//*
+
+  background-color: yellow; */
+/* Set the desired background color *//*
+
+  padding: 5px; */
+/* Optional: Add some padding for better appearance *//*
+
   text-align: center;
 }
 
@@ -90,4 +97,28 @@ background-color: #ffffff;
   100% { transform: translate(-100%, 0); }
 }
 
+}*/
+
+.banner-container {
+    width: 100%; /* Full width container */
+    overflow: hidden; /* Hide overflow */
+    white-space: nowrap; /* Prevent text wrapping */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    position: relative; /* Position relative to place the content absolutely inside */
+}
+
+.banner-content {
+    display: inline-block;
+    white-space: nowrap; /* Prevent text wrapping */
+    animation: scroll-banner 10s linear infinite; /* Scroll animation */
+    position: absolute; /* Position absolutely to move it */
+}
+
+@keyframes scroll-banner {
+    0% {
+        transform: translateX(100%); /* Start from the right */
+    }
+    100% {
+        transform: translateX(-100%); /* Move to the left */
+    }
 }
