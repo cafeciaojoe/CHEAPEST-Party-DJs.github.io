@@ -38,6 +38,28 @@ border-bottom: 2px solid #0ffcd4;
 text-align: center;
 }
 
+h2 {
+font-family: Times New Roman;
+font-size: 20px;
+font-weight: bold;
+background-color: #B9FFF4;
+margin: 40px 0px 20px 0px;
+padding: 5px;
+border-bottom: 2px solid #0000FF;
+text-align: left;
+}
+
+h3 {
+font-family: Times New Roman;
+font-size: 20px;
+font-weight: bold;
+background-color: #B9FFF4;
+margin: 40px 0px 20px 0px;
+padding: 5px;
+border-bottom: 2px solid #FF0000;
+text-align: center;
+}
+
 p {
     padding-left: 20px;
     font-size: 22px;
@@ -110,7 +132,7 @@ background-color: #ffffff;
 .banner-content {
     display: inline-block;
     white-space: nowrap; /* Prevent text wrapping */
-    animation: scroll-banner 10s linear infinite; /* Scroll animation */
+    animation: scroll-banner 20s linear infinite; /* Scroll animation */
     position: absolute; /* Position absolutely to move it */
 }
 
