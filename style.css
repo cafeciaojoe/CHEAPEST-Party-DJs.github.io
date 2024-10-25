@@ -34,7 +34,7 @@ font-weight: bold;
 background-color: #05fce3;
 margin: 40px 0px 20px 0px;
 padding: 5px;
-border-bottom: 2px solid #0ffcd4;
+border-bottom: 2px solid #FF0000;
 text-align: center;
 }
 
@@ -53,10 +53,10 @@ h3 {
 font-family: Times New Roman;
 font-size: 20px;
 font-weight: bold;
-background-color: rgba(185, 255, 244, 0.5);
+background-color: rgb(185, 255, 244);
+background-color: rgba(185, 255, 244, 0.75);
 margin: 40px 0px 20px 0px;
 padding: 5px;
-border-bottom: 2px solid #FF0000;
 text-align: center;
 }
 
@@ -77,8 +77,10 @@ p {
 
 nav {
 font-size: 24px;
+font-weight: bold;
 text-align: center;
-background-color: #ffffff;
+background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
+background: rgba(255, 255, 255, 0.5);
 }
 
 .container {
