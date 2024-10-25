@@ -83,45 +83,24 @@ background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-supp
 background: rgba(255, 255, 255, 0.5);
 }
 
-.container {
+.text-container {
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;    /* Add this */
+    width: 100%;           /* Add this */
+    box-sizing: border-box; /* Add this */
+    padding: 0 20px;       /* Add this for some margin */
+}
+
+.image-container {
             display: flex;
             justify-content: center;
             align-items: center;
         }
-        .container img {
+        .image-container img {
             margin: 0px; /* Adjust the spacing between images as needed */
         }
-
-/*
-.scroll-container {
-  display: flex;
-  align-items: center;
-}
-
-.marquee {
-  width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
-  box-sizing: border-box;
-  animation: marquee 20s linear infinite;
-  font-size: 24px; */
-/* Adjust this value to make the text bigger or smaller *//*
-
-  background-color: yellow; */
-/* Set the desired background color *//*
-
-  padding: 5px; */
-/* Optional: Add some padding for better appearance *//*
-
-  text-align: center;
-}
-
-@keyframes marquee {
-  0% { transform: translate(100%, 0); }
-  100% { transform: translate(-100%, 0); }
-}
-
-}*/
 
 .banner-container {
     width: 100%; /* Full width container */
